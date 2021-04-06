@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.bg-mio {
+	background-color: #6875F5
+}
+
+.bg-mio-700 {
+	background-color: #5965d9
+}
+
+.bg-mio-900 {
+	background-color: #4e59bf
+}

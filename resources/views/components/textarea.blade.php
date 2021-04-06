@@ -1,0 +1,1 @@
+<textarea name = {{ $title }} {{ $attributes->merge(['class' => '']) }}>{{ $slot }}</textarea>

@@ -1,0 +1,1 @@
+L'utente {{ $user->name }} - email {{ $user->email }} si è candidato al team {{ $team->name }}.
